@@ -44,7 +44,7 @@ It supports four working modes:
 
 Use the hosted app (Browser + Demo modes):
 
-- https://obsidian-web.app.lamouche.fr/
+- https://browsidian.app.lamouche.fr/
 
 Notes:
 
